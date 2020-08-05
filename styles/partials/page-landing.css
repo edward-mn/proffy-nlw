@@ -52,20 +52,20 @@
   margin-right: 2.4rem;
 }
 
-.buttons-containter a.study { 
+.buttons-containter a .study { 
   background-color: var(--color-primary-lighter);
 }
 
-.buttons-containter a.study:hover {
+.buttons-containter a .study:hover {
   background-color: var(--color-primary-light);
 }
 
-.buttons-containter a.give-classes {
+.buttons-containter a .give-classes {
   background-color: var(--color-secondary);
   margin-right: 0;
 }
 
-.buttons-containter a.give-classes:hover {
+.buttons-containter a .give-classes:hover {
   background-color: var(--color-secondary-dark);
 }
 
