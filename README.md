@@ -17,3 +17,7 @@ Estudar:
 - Quer participar: [Evento](https://nextlevelweek.com/inscricao/2)
 
 Trilha recomendada: Discovery
+
+- npm install -y
+- npm install express
+- npm install nodemon -D
