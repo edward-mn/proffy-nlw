@@ -88,9 +88,15 @@ async function saveClasses(req, res) {
   }
 }
 
+
+function pageSaveRegistration(req, res) {
+  return res.render("save-registration.html")
+}
+
 module.exports = {
   pageLanding,
   pageStudy,
   pageGiveClasses,
-  saveClasses
+  saveClasses,
+  pageSaveRegistration
 }
