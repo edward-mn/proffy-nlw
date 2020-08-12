@@ -50,6 +50,10 @@ function pageGiveClasses(req, res) {
   return res.render("give-classes.html", { subjects, weekdays })
 }
 
+function pageSaveRegistration(req, res) {
+  return res.render("save-registration.html")
+}
+
 async function saveClasses(req, res) {
   const createProffy = require('./database/createProffy')
 
@@ -86,11 +90,6 @@ async function saveClasses(req, res) {
   } catch (error) {
     console.log(error);
   }
-}
-
-
-function pageSaveRegistration(req, res) {
-  return res.render("save-registration.html")
 }
 
 module.exports = {

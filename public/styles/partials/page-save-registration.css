@@ -83,15 +83,15 @@
     width: 60rem;
     height: 17.37rem;
   
-    left: 30%;
+    left: 35%;
     top: 35%;
-    transform: translate(-30% -35%);
+    transform: translate(-35% -35%);
   }
 
   .background-img .study-button {
-    left: 41.5%;
+    left: 44.5%;
     top: 63%;
-    transform: translate(-41.5% -63%);
+    transform: translate(-44.5% -63%);
     width: 25rem;
     height: 3.5rem;
     font: 700 2rem Archivo;
@@ -103,5 +103,10 @@
   
   .container-information p {
     font-size: 1.9rem;
+  }
+  .background-img .container-information img {
+    width: 100px;
+    height: 100px;
+    text-align: center;
   }
 }
