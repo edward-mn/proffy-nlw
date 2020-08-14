@@ -66,5 +66,5 @@ $ git clone git@github.com:edward-mn/proffy-nlw.git
 ## 🔗 Important links:
 
 - Exchange of ideas with the communities: [Discord](https://discord.com/invite/zgvZhUP)
-- Event Information: [Apostila](https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW2.pdf)
+- Event Information: [handout](https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW2.pdf)
 - Want to participate: [Event](https://nextlevelweek.com/inscricao/2)
