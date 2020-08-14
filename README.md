@@ -1,23 +1,55 @@
-# Proffy | Next Level Week #02
+# :mortar_board: Proffy | Next Level Week #02 :rocket:
 
-A ideia central do aplicativo é criar uma plataforma de estudos online onde será possível Estudar ou Dar aulas.
+> The central idea of the application is to create an online study platform where it will be possible to study or teach classes.
 
-## Funcionalidades
+<p align="center">
+   <img src="./.github/NLW2.png" alt="Next Level Week 02"/>
+</p>
 
-Dar aulas:
-- Preencher suas informações pessoais e profissionais sobre você, para que seja montado um perfil e com isso os estudante consigam selecioná-lo de acordo com sua descrição.
+## :framed_picture: Pictures of app
+- Pictures
 
-Estudar:
-- Encontrar Cursos através dos filtros que serão utilizados no momento da busca, juntamente com as informações dos instrutores cadastrados em Dar aulas.
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
+   <img src="./.github/aproffy_logo.png" width="300px">
+   <img src="./.github/cadastro-salvo.png" width="360px">
+   <img src="./.github/edward_proffy.png" width="257px">
+</div>
 
-## Links importantes:
+- GIF
+<p align="center">
+   <img src="./.github/gif_app.gif" alt="Next Level Week 02"/>
+</p>
 
-- Troca de ideias com a comunidades: [Discord](https://discord.com/invite/zgvZhUP) 
-- Informações sobre Evento: [Apostila](https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW2.pdf) 
-- Quer participar: [Evento](https://nextlevelweek.com/inscricao/2)
+## :wrench: Technologies 
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5)
+- [CSS3](https://pt.wikipedia.org/wiki/CSS3)
+- [Java Script](https://www.javascript.com/)
+- [Banco de dados (Sqlite)](https://www.sqlite.org/index.html) 
 
-Trilha recomendada: Discovery
+## :computer: Functionalities
 
-- npm install -y
-- npm install express
-- npm install nodemon -D
+:man_teacher: Give classes:
+- Fill in your personal and professional information about yourself, so that a profile is created and with that the students are able to select it according to their description.
+
+📚 To study:
+- Find courses through the filters that will be used at the time of the search, along with information from the instructors registered in Teaching.
+
+## :construction_worker: How to run
+```
+npm install
+npm rum dev
+```
+> After open your <b>localhost:5500</b>
+
+## :package: How to [download](https://github.com/edward-mn/proffy-nlw/archive/master.zip)
+```bash
+# Clone o Repositoria
+$ git clone git@github.com:edward-mn/proffy-nlw.git
+```
+
+## Important links:
+
+- Exchange of ideas with the communities: [Discord](https://discord.com/invite/zgvZhUP)
+- Event Information: [Apostila](https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW2.pdf)
+- Want to participate: [Event](https://nextlevelweek.com/inscricao/2)
+- Trilha recomendada: Discovery
