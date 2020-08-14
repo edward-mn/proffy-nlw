@@ -1,5 +1,21 @@
 # :mortar_board: Proffy | Next Level Week #02 :rocket:
 
+<p align="center">	
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/edward-mn/proffy-nlw?color=5622c9">
+
+  <a href="https://github.com/edward-mn/proffy-nlw/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edward-mn/proffy-nlw?color=5622c9">
+  </a> 
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5622c9">
+  
+  <a href="https://github.com/edward-mn/proffy-nlw/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/edward-mn/proffy-nlw?color=5622c9&logo=github">
+  </a>
+  
+  <img alt="License" src="https://img.shields.io/badge/trail-discovery-cca714">   
+</p>
+
 > The central idea of the application is to create an online study platform where it will be possible to study or teach classes.
 
 <p align="center">
@@ -52,4 +68,3 @@ $ git clone git@github.com:edward-mn/proffy-nlw.git
 - Exchange of ideas with the communities: [Discord](https://discord.com/invite/zgvZhUP)
 - Event Information: [Apostila](https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW2.pdf)
 - Want to participate: [Event](https://nextlevelweek.com/inscricao/2)
-- Trilha recomendada: Discovery
