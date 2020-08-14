@@ -63,7 +63,7 @@ npm rum dev
 $ git clone git@github.com:edward-mn/proffy-nlw.git
 ```
 
-## Important links:
+## 🔗 Important links:
 
 - Exchange of ideas with the communities: [Discord](https://discord.com/invite/zgvZhUP)
 - Event Information: [Apostila](https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW2.pdf)
